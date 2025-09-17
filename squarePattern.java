@@ -1,0 +1,15 @@
+package Basics;
+
+public class squarePattern {
+    public static void main(String[] args) {
+        for (int line = 1; line <= 4; line++) {
+            System.out.println("****");
+        }
+    }
+}
+// same code with while loop soo:
+// int line=1;
+// while (line<=4){
+// System.out.println("****");
+// line++;
+// }
